@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17192" systemVersion="19H2" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Comp" representedClassName="Comp" syncable="YES">
+        <attribute name="firstMate" attributeType="String"/>
+        <attribute name="name" attributeType="String"/>
+        <attribute name="rating" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="secondMate" attributeType="String"/>
+        <attribute name="thirdMate" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Comp" positionX="-54" positionY="-9" width="128" height="118"/>
+    </elements>
+</model>
